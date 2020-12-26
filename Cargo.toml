@@ -5,6 +5,8 @@ authors = ["EchoLi <my-rust@echoli.uu.me>"]
 edition = "2018"
 description = "Echoes, a web framework with a focus on ease-of-use, expressibility, and speed."
 license = "MIT"
+repository = "https://github.com/EchoRust/Echoes"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
